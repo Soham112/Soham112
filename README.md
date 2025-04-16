@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Soham Patil!
 
-<!--
-**Soham112/Soham112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science at The University of Texas at Dallas  
+📊 Former Data Scientist at Data Axle | Passionate about transforming data into actionable insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I’m a curious, impact-driven Data Science enthusiast with hands-on experience in:
+
+- 📈 Predictive Modeling, Forecasting & ML Pipelines  
+- 🧠 Deep Learning, NLP, and Generative AI  
+- 💼 Real-world deployment using Databricks, PySpark, and SQL  
+- 🧪 Experimentation & Model Optimization for business-critical systems  
+
+I'm passionate about solving real-world problems with a blend of domain knowledge and ML solutions. Whether it's building AI tools for automation or extracting meaning from messy datasets, I thrive at the intersection of **data, design, and decision-making**.
+
+---
+
+## ⚙️ Tools & Technologies
+
+**Languages:** Python | R | SQL | C++  
+**Libraries:** NumPy, Pandas, Scikit-Learn, TensorFlow, XGBoost, NLTK, Transformers  
+**Data & Cloud:** MySQL, MongoDB, PostgreSQL | Databricks, AWS  
+**Visualization:** Power BI, Tableau, Matplotlib  
+**MLOps:** Git, GitHub, VS Code, Docker (learning), Airflow (learning)
+
+---
+
+## 🔧 Featured Projects
+
+- 📊 **Stock Price Prediction using GPT-4 Vision** (https://github.com/Soham112/Stock_Prediction_GPT-4)
+  Trained an LLM-based pipeline to analyze stock charts and suggest buy/sell opportunities with accuracy tracking.
+
+---
+
+## 📫 How to Reach Me
+
+📧 Email: soham.patil@utdallas.edu  
+💼 LinkedIn: [linkedin.com/in/sohampatil112](https://linkedin.com/in/sohampatil112)  
+🌐 GitHub: [github.com/Soham112](https://github.com/Soham112)
+
+---
+
+⭐ Let’s build something impactful together!
