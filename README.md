@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Soham Patil!
 
-🎓 Master's Student in Data Science at The University of Texas at Dallas  
+🎓 Master's Student in Information technology and Management at The University of Texas at Dallas  
 📊 Former Data Scientist at Data Axle | Passionate about transforming data into actionable insights
 
 ---
 
 ## 💡 About Me
 
-I’m a curious, impact-driven Data Science enthusiast with hands-on experience in:
+I’m a curious, impact-driven Data Science, Data analyst enthusiast with hands-on experience in:
 
 - 📈 Predictive Modeling, Forecasting & ML Pipelines  
 - 🧠 Deep Learning, NLP, and Generative AI  
