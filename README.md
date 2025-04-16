@@ -31,7 +31,7 @@ I'm passionate about solving real-world problems with a blend of domain knowledg
 ## 🔧 Featured Projects
 
  - 📊 **Stock Price Prediction using GPT-4 Vision** – [View Project](https://github.com/Soham112/Stock_Prediction_GPT-4)
-  Trained an LLM-based pipeline to analyze stock charts and suggest buy/sell opportunities with accuracy tracking.
+ - Trained an LLM-based pipeline to analyze stock charts and suggest buy/sell opportunities with accuracy tracking.
 
 ---
 
