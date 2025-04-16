@@ -32,6 +32,7 @@ I'm passionate about solving real-world problems with a blend of domain knowledg
 
  - 📊 **Stock Price Prediction using GPT-4 Vision** – [View Project](https://github.com/Soham112/Stock_Prediction_GPT-4)
  - 📊 **JobSync AI – Resume Personalization Engine** - [View Project](https://github.com/Soham112/Resume_Builder)
+ - 📊 **Netflix Movie Recommendation system** - [View Project](https://github.com/Soham112/Netflix-Recommendation-System/tree/main)
 
 ---
 
