@@ -38,7 +38,7 @@ I'm passionate about solving real-world problems with a blend of domain knowledg
 ## 📫 How to Reach Me
 
 📧 Email: patilsohham@gmail.com 
-💼 LinkedIn: [linkedin.com/in/sohampatil112](https://linkedin.com/in/sohampatil112)  
+💼 LinkedIn: [linkedin.com/in/sohampatil112](https://www.linkedin.com/in/sohampatil1102/)  
 🌐 GitHub: [github.com/Soham112](https://github.com/Soham112)
 
 ---
