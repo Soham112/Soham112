@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Soham Patil!
+# Soham Patil!
 
 🎓 Master's Student in Information technology and Management at The University of Texas at Dallas  
 📊 Former Data Scientist at Data Axle | Passionate about transforming data into actionable insights
