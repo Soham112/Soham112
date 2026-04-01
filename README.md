@@ -1,48 +1,42 @@
 # Soham Patil
 
-🎓 Master's Student in Information technology and Management at The University of Texas at Dallas  
-📊 Former Data Scientist at Data Axle | Passionate about transforming data into actionable insights
+Data Scientist | GenAI & ML Systems  
+RAG • Multi-Agent Systems • Distributed ML Pipelines
 
----
+## What I Build
+- Production ML pipelines on Databricks / PySpark
+- RAG & LLM systems (LangChain, LLaMA, Bedrock)
+- End-to-end AI products using FastAPI and AWS
 
-## 💡 About Me
+## Impact
+- Processed 120K+ articles/month → 60K verified contacts
+- Scaled pipelines to 10M+ records
+- Improved data quality → 4x revenue impact
 
-I’m a curious, impact-driven Data Science, Data analyst enthusiast with hands-on experience in:
+## Featured Projects
 
-- 📈 Predictive Modeling, Forecasting & ML Pipelines  
-- 🧠 Deep Learning, NLP, and Generative AI  
-- 💼 Real-world deployment using Databricks, PySpark, and SQL  
-- 🧪 Experimentation & Model Optimization for business-critical systems  
+### 🧠 Contendo — GenAI Content Engine
+AI content generation system with retrieval, agentic workflows, and quality scoring  
+https://github.com/Soham112/Contendo
 
-I'm passionate about solving real-world problems with a blend of domain knowledge and ML solutions. Whether it's building AI tools for automation or extracting meaning from messy datasets, I thrive at the intersection of **data, design, and decision-making**.
+### 🤖 Multi-Agent GTM Research Platform
+Multi-agent research pipeline generating structured insights from large-scale news data  
+https://github.com/Soham112/GPT-NEWSPAPER
 
----
+### 🎯 NexAI — RAG Career Assistant
+Hackathon-winning AWS Bedrock-based RAG assistant for career guidance  
+https://github.com/Soham112/NexAI
 
-## ⚙️ Tools & Technologies
+### 📈 Stock Prediction using GPT-4 Vision
+Vision-based stock analysis system using chart images and LLM reasoning  
+https://github.com/Soham112/Stock_Prediction_GPT-4
 
-**Languages:** Python | R | SQL | C++  
-**Libraries:** NumPy, Pandas, Scikit-Learn, TensorFlow, XGBoost, NLTK, Transformers  
-**Data & Cloud:** MySQL, MongoDB, PostgreSQL | Databricks, AWS  
-**Visualization:** Power BI, Tableau, Matplotlib  
-**MLOps:** Git, GitHub, VS Code, Docker (learning), Airflow (learning)
+### 🎬 Netflix Recommendation System
+Recommendation engine using collaborative filtering and personalization techniques  
+https://github.com/Soham112/Netflix-Recommendation-System
 
----
+## Tech Stack
+Python • PySpark • Databricks • AWS • MLflow • LAGMs • Vector DBs
 
-## 🔧 Featured Projects
-
- - 📊 **Stock Price Prediction using GPT-4 Vision** – [View Project](https://github.com/Soham112/Stock_Prediction_GPT-4.)
- - 📊 **JobSync AI – Resume Personalization Engine** - [View Project](https://github.com/Soham112/Resume_Builder)
- - 📊 **Netflix Movie Recommendation system** - [View Project](https://github.com/Soham112/Netflix-Recommendation-System/tree/main)
- - 📊 **Price Prediction for used cars** = [View Project](https://github.com/Soham112/Price-Prediction-For-Used-Cars)
-
----
-
-## 📫 How to Reach Me
-
-📧 **Email**: [patilsohham@gmail.com](mailto:patilsohham@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/sohampatil112](https://linkedin.com/in/sohampatil112)  
-🌐 **GitHub**: [github.com/Soham112](https://github.com/Soham112)
-
----
-
-⭐ Let’s build something impactful together!
+## Links
+[LinkedIn](https://www.linkedin.com/in/soham1102/) • [Portfolio](https://soham-portfolio-seven.vercel.app/)
