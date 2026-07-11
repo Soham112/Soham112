@@ -15,6 +15,10 @@ RAG • Multi-Agent Systems • Distributed ML Pipelines
 
 ## Featured Projects
 
+### EquityLens — AI Equity Research Platform
+An intelligent, fully automated AI-driven equity research and paper trading platform. EquityLens combines deep fundamental analysis, technical chart vision, and real-time sentiment data to identify high-conviction investment opportunities across S&P 500 and Nasdaq 100.
+https://github.com/Soham112/EquityLens
+
 ### 🧠 Contendo — GenAI Content Engine
 AI content generation system with retrieval, agentic workflows, and quality scoring  
 https://github.com/Soham112/Contendo
